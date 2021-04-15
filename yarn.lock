@@ -2862,6 +2862,11 @@
     "@typescript-eslint/types" "4.8.1"
     eslint-visitor-keys "^2.0.0"
 
+"@upleveled/eslint-config-upleveled@latest":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.9.0.tgz#17b0659c22b51cdc053289caabf3d0f087caa93b"
+  integrity sha512-d50ZRFfc/+hpcHfxcYFV6uC9W9pNyuojSW/eOE15v/wfRovb9HUTKjjUlnPPKAScAU3FPdv2Krlu82z4Av7rYg==
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"
