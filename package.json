@@ -9,7 +9,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,7 +41,7 @@
     "@types/react": "17.0.19",
     "@types/react-dom": "17.0.9",
     "@types/testing-library__jest-dom": "5.14.1",
-    "@types/testing-library__user-event": "^4.2.0",
+    "@types/testing-library__user-event": "4.2.0",
     "@typescript-eslint/eslint-plugin": "4.30.0",
     "@typescript-eslint/parser": "4.30.0",
     "@upleveled/eslint-config-upleveled": "latest",
