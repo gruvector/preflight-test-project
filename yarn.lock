@@ -2918,10 +2918,10 @@
     "@typescript-eslint/types" "4.8.1"
     eslint-visitor-keys "^2.0.0"
 
-"@upleveled/eslint-config-upleveled@latest":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.9.0.tgz#17b0659c22b51cdc053289caabf3d0f087caa93b"
-  integrity sha512-d50ZRFfc/+hpcHfxcYFV6uC9W9pNyuojSW/eOE15v/wfRovb9HUTKjjUlnPPKAScAU3FPdv2Krlu82z4Av7rYg==
+"@upleveled/eslint-config-upleveled@1.15.2":
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.15.2.tgz#a20d049a978370650678ef72fc91271fcf834c84"
+  integrity sha512-WsFzWoeC1VW5wv+3Nl+Z21YqxPlTC0hxFSl2phoWmgSkQcBmvMprSxTudwm2ogmQbRhJUtX78dKtW8ceRwiESA==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -12679,10 +12679,10 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   dependencies:
     minimalistic-assert "^1.0.0"
 
-web-vitals@0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-0.2.4.tgz#ec3df43c834a207fd7cdefd732b2987896e08511"
-  integrity sha512-6BjspCO9VriYy12z356nL6JBS0GYeEcA457YyRzD+dD6XYCQ75NKhcOHUMHentOE7OcVCIXXDvOm0jKFfQG2Gg==
+web-vitals@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-2.1.0.tgz#ebf5428875ab5bfc1056c2e80cd177001287de7b"
+  integrity sha512-npEyJP8jHf3J71t1tRTEtz9FeKp8H2udWJUUq5ykfPhhstr//TUxiYhIEzLNwk4zv2ybAilMn7v7N6Mxmuitmg==
 
 webidl-conversions@^5.0.0:
   version "5.0.0"
