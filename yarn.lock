@@ -2593,10 +2593,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.9.tgz#04afc9a25c6ff93da14deabd65dc44485b53c8d6"
   integrity sha512-JsoLXFppG62tWTklIoO4knA+oDTYsmqWxHRvd4lpmfQRNhX6osheUOWETP2jMoV/2bEHuMra8Pp3Dmo/stBFcw==
 
-"@types/node@16.7.13":
-  version "16.7.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.13.tgz#86fae356b03b5a12f2506c6cf6cd9287b205973f"
-  integrity sha512-pLUPDn+YG3FYEt/pHI74HmnJOWzeR+tOIQzUx93pi9M7D8OE7PSLr97HboXwk5F+JS+TLtWuzCOW97AHjmOXXA==
+"@types/node@16.9.0":
+  version "16.9.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.0.tgz#d9512fe037472dcb58931ce19f837348db828a62"
+  integrity sha512-nmP+VR4oT0pJUPFbKE4SXj3Yb4Q/kz3M9dSAO1GGMebRKWHQxLfDNmU/yh3xxCJha3N60nQ/JwXWwOE/ZSEVag==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -2918,10 +2918,10 @@
     "@typescript-eslint/types" "4.8.1"
     eslint-visitor-keys "^2.0.0"
 
-"@upleveled/eslint-config-upleveled@1.15.3":
-  version "1.15.3"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.15.3.tgz#03e4fd250cf7ea80bac4c53b4d9326c3fa859ff1"
-  integrity sha512-YgbOKVYokewWSKNdt+tsismSJxq3+tj6NRXTorTb+nTZoakSN+V654D4TAVkjA1we0yHVoIjxPyZj9OAgT1gsQ==
+"@upleveled/eslint-config-upleveled@1.15.4":
+  version "1.15.4"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.15.4.tgz#b23651dac973a86f6661711afba315d21844060f"
+  integrity sha512-vYlT1UIbJbNzupzgnVF7V795F/eyeHdAPMNqALjqvU+/n7amVOFQh6bEBsFSDTSlc1iNTB05q6I0D09ihOlnvA==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -5720,10 +5720,10 @@ eslint-plugin-react@^7.21.5:
     resolve "^2.0.0-next.3"
     string.prototype.matchall "^4.0.4"
 
-eslint-plugin-testing-library@4.12.1:
-  version "4.12.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-4.12.1.tgz#133467e6f78b79cc55a567c021a3f962d93cdfa2"
-  integrity sha512-4RCUJ1MPjZPoOlYhVB5eOVzKjiq7FfiSp0j/JDUI4HGGEyLM9f01Zpk16fCOpITxS8qaFTex8xSH64vDUm8j7g==
+eslint-plugin-testing-library@4.12.2:
+  version "4.12.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-4.12.2.tgz#b99e7694b1ef20bb090e1f62eb5c8214f2919dc2"
+  integrity sha512-lcysxW7I3oXmZIyFP2N1dFMPfuB3qyl3iDcDboCl7U+TAaeG9OOycNSkZUAsDWQLsfEtXYmRbwTH98qSgk6peA==
   dependencies:
     "@typescript-eslint/experimental-utils" "^4.30.0"
 
