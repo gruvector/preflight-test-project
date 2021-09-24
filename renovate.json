@@ -1,10 +1,4 @@
 {
   "extends": ["github>karlhorky/renovate-config"],
-  "packageRules": [
-   {
-      "matchUpdateTypes": ["patch", "minor", "major"],
-      "automerge": true
-    }
-  ],
   "schedule": null
 }
