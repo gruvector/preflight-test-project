@@ -1876,10 +1876,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@18.0.12":
-  version "18.0.12"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.12.tgz#cdaa209d0a542b3fcf69cf31a03976ec4cdd8840"
-  integrity sha512-duF1OTASSBQtcigUvhuiTB1Ya3OvSy+xORCiEf20H0P0lzx+/KeVsA99U5UjLXSbyo1DRJDlLKqTeM1ngosqtg==
+"@types/react@18.0.13":
+  version "18.0.13"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.13.tgz#0f5bd24a5f26593e04e450fe85ff43f51c1524ff"
+  integrity sha512-psqptIYQxGUFuGYwP3KCFVtPTkMpIcrqFmtKblWEUQhLuYLpHBwJkXhjp6eHfDM5IbyskY4x7qQpLedEsPkHlA==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -2153,10 +2153,10 @@
     "@typescript-eslint/types" "5.28.0"
     eslint-visitor-keys "^3.3.0"
 
-"@upleveled/eslint-config-upleveled@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-2.11.0.tgz#1bd541d3e29adba1a47c65bde97e9c1e11754132"
-  integrity sha512-1CZz8qEenAd5qVvptsa0L8FIQLoEoOIA0pu6sS/1JM7y2TxSe446XaalxLMXYbbFujb/Me+5lnY9BgVZlmfUww==
+"@upleveled/eslint-config-upleveled@2.12.0":
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-2.12.0.tgz#d6f480630eb553b26d0dfd880b7b484a59370b3e"
+  integrity sha512-e33jzEQ2TN2/3EuBSqcb8OZ5jpgzUotNKty3UoTpOPT5m22PEtfJu7X80m0XPXCSNnR/p4ZEvel9ngd8oTcUmg==
 
 "@upleveled/eslint-plugin-upleveled@2.1.5":
   version "2.1.5"
