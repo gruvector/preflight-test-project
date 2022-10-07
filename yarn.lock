@@ -1722,10 +1722,10 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ts-safeql/eslint-plugin@^0.0.17":
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.17.tgz#3cad203b6f1e56687314aefa55b35fd0b9640314"
-  integrity sha512-dHd1TT5ZrKLR8/S1OdiHsHEnJhZJacM5S3bmk3ddd3PLBXA6X7HrSHsCLU6q6IOi55eQFhdAc4YX+HrivHH9ug==
+"@ts-safeql/eslint-plugin@0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.18.tgz#21481945156d4876ba2eedb5e04a1a32f3ce7e0f"
+  integrity sha512-/S4RT4EhOh086bwjAvaF0AEyQ4ICAhm0njjCaTz8tRcUfpfdRDktlj2oWZr6UCfkW8OIRkaI35iBSgqRIxhxVw==
   dependencies:
     "@ts-safeql/generate" "0.0.6"
     "@ts-safeql/shared" "0.0.5"
@@ -1958,10 +1958,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.14.tgz#33b9b94f789a8fedd30a68efdbca4dbb06b61f20"
   integrity sha512-SbjLmERksKOGzWzPNuW7fJM7fk3YXVTFiZWB/Hs99gwhk+/dnrQRPBQjPW9aO+fi1tAffi9PrwFvsmOKmDTyng==
 
-"@types/node@18.8.2":
-  version "18.8.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.2.tgz#17d42c6322d917764dd3d2d3a10d7884925de067"
-  integrity sha512-cRMwIgdDN43GO4xMWAfJAecYn8wV4JbsOGHNfNUIDiuYkUYAR5ec4Rj7IO2SAhFPEfpPtLtUTbbny/TCT7aDwA==
+"@types/node@18.8.3":
+  version "18.8.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.3.tgz#ce750ab4017effa51aed6a7230651778d54e327c"
+  integrity sha512-0os9vz6BpGwxGe9LOhgP/ncvYN5Tx1fNcd2TM3rD/aCGBkysb+ZWpXEocG24h6ZzOi13+VB8HndAQFezsSOw1w==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"

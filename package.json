@@ -38,8 +38,8 @@
   "devDependencies": {
     "@babel/eslint-parser": "7.19.1",
     "@next/eslint-plugin-next": "12.3.1",
-    "@ts-safeql/eslint-plugin": "^0.0.17",
-    "@types/node": "18.8.2",
+    "@ts-safeql/eslint-plugin": "0.0.18",
+    "@types/node": "18.8.3",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
     "@types/testing-library__jest-dom": "5.14.5",
