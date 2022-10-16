@@ -1681,51 +1681,50 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ts-safeql/eslint-plugin@0.0.18":
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.18.tgz#21481945156d4876ba2eedb5e04a1a32f3ce7e0f"
-  integrity sha512-/S4RT4EhOh086bwjAvaF0AEyQ4ICAhm0njjCaTz8tRcUfpfdRDktlj2oWZr6UCfkW8OIRkaI35iBSgqRIxhxVw==
+"@ts-safeql/eslint-plugin@0.0.19":
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.19.tgz#d42464379ad3d733b21b40a1191ed6d3c8a92058"
+  integrity sha512-usk3DmmwS8tMEyYMPcs0Gp6r7bafiSaxNj/JTlv6Iaz1PnDfsLi3Q9HI34V0v889WcCDntT+ZFvtjc/fWONg5w==
   dependencies:
-    "@ts-safeql/generate" "0.0.6"
-    "@ts-safeql/shared" "0.0.5"
-    "@ts-safeql/test-utils" "0.0.5"
+    "@ts-safeql/generate" "0.0.7"
+    "@ts-safeql/shared" "0.0.6"
+    "@ts-safeql/test-utils" "0.0.6"
     "@typescript-eslint/utils" "^5.36.2"
+    chokidar "^3.5.3"
     esbuild "0.15.7"
     fp-ts "^2.12.3"
     pg-connection-string "2.5.0"
     postgres "^3.3.0"
     recast "^0.21.2"
-    source-map-support "^0.5.21"
     synckit "^0.8.4"
     ts-pattern "^4.0.5"
     zod "^3.19.0"
     zod-to-json-schema "^3.17.1"
 
-"@ts-safeql/generate@0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/generate/-/generate-0.0.6.tgz#c8ed41586be2c5cf1e82ff4d9a057ae8fd5ea927"
-  integrity sha512-vKuZKipxYbCOo1waRCNtIif7+47sdVa321aod+UbRDzhjZowtQ0cNtdFu32NlQFI3deiozT2dpZvZC37hb1iAA==
+"@ts-safeql/generate@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/generate/-/generate-0.0.7.tgz#40570a3681a8610e031aaad6f89fda4fa8e066d7"
+  integrity sha512-1cqSgzQjb8jIUQjQcukhIt/Uq3ApR6BXG0DFmcd14aLgFcU+IOPJWQ1dr5VSSFO9Zgx1/6yxkhBbfYetDvoJNw==
   dependencies:
-    "@ts-safeql/shared" "0.0.5"
-    "@ts-safeql/test-utils" "0.0.5"
+    "@ts-safeql/shared" "0.0.6"
+    "@ts-safeql/test-utils" "0.0.6"
     fp-ts "^2.12.3"
     pg-connection-string "^2.5.0"
     postgres "^3.3.0"
-    source-map-support "^0.5.21"
 
-"@ts-safeql/shared@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/shared/-/shared-0.0.5.tgz#c4b12fad80144a167b5154dbd75e0d5c3f4156fe"
-  integrity sha512-xsjqvn0HtNDk1U+yaCF3eDrXVcp8hkE/NI1CMPt+RAqffG1VwBSkfXKsGwjv9b/mbR4joDf081rhd7A1oHc4+A==
+"@ts-safeql/shared@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/shared/-/shared-0.0.6.tgz#db46c6c32da761d20fbca4dd4ffde05dbac0fe5b"
+  integrity sha512-feZn+blOlsElHeiOKZnB7TY3aN2+divz4pziiAsbuWeUO10IGfp0KHWb54PlTCcJnB2E6QykMw1ptfOGoHBu2Q==
   dependencies:
     postgres "^3.3.0"
 
-"@ts-safeql/test-utils@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/test-utils/-/test-utils-0.0.5.tgz#4e7fcf39a745ed91d1a50392a6f5c86951f3fba0"
-  integrity sha512-O3f0xleJTdqMpiU0QSEQDx1TXDUqbB01lhfvJRk8lINhHu564WW/lSxp6Dkhm7LsiWEwOxsl3VaPKMAi1rrq8Q==
+"@ts-safeql/test-utils@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/test-utils/-/test-utils-0.0.6.tgz#4dc4f7354fa724b399aa899ef84762bed6040113"
+  integrity sha512-Eto3O3pXkqRHCtZRt0RanX4BLbl6p/v0wCtdbn7Ez4/2khc7OHv6BZDdBC9JR6tWjeeWN7rl7VS0AqxZ+Tui1A==
   dependencies:
-    "@ts-safeql/shared" "0.0.5"
+    "@ts-safeql/shared" "0.0.6"
     nanoid "^4.0.0"
     pg-connection-string "^2.5.0"
     postgres "^3.3.0"
@@ -8465,7 +8464,7 @@ source-map-loader@^3.0.0:
     iconv-lite "^0.6.3"
     source-map-js "^1.0.1"
 
-source-map-support@^0.5.21, source-map-support@^0.5.6, source-map-support@~0.5.20:
+source-map-support@^0.5.6, source-map-support@~0.5.20:
   version "0.5.21"
   resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.21.tgz#04fe7c7f9e1ed2d662233c28cb2b35b9f63f6e4f"
   integrity sha512-uBHU3L3czsIyYXKX88fdrGovxdSCoTGDRZ6SYXtSRxLZUzHg5P/66Ht6uoUlHu9EZod+inXhKo3qQgwXUT/y1w==
