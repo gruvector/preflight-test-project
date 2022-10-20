@@ -1681,12 +1681,12 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ts-safeql/eslint-plugin@0.0.19":
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.19.tgz#d42464379ad3d733b21b40a1191ed6d3c8a92058"
-  integrity sha512-usk3DmmwS8tMEyYMPcs0Gp6r7bafiSaxNj/JTlv6Iaz1PnDfsLi3Q9HI34V0v889WcCDntT+ZFvtjc/fWONg5w==
+"@ts-safeql/eslint-plugin@0.0.20":
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/eslint-plugin/-/eslint-plugin-0.0.20.tgz#dd31b8133bf128c5283e105db27ae255c6bbda51"
+  integrity sha512-7oXzt26f+HKtLBxKtJ6msf2BLwkCmZeXTamBagPR/tfyaDDdYcEzjZxgF0VcKzs4FV0czvmwTIe/UbzlZJLR7Q==
   dependencies:
-    "@ts-safeql/generate" "0.0.7"
+    "@ts-safeql/generate" "0.0.8"
     "@ts-safeql/shared" "0.0.6"
     "@ts-safeql/test-utils" "0.0.6"
     "@typescript-eslint/utils" "^5.36.2"
@@ -1701,10 +1701,10 @@
     zod "^3.19.0"
     zod-to-json-schema "^3.17.1"
 
-"@ts-safeql/generate@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@ts-safeql/generate/-/generate-0.0.7.tgz#40570a3681a8610e031aaad6f89fda4fa8e066d7"
-  integrity sha512-1cqSgzQjb8jIUQjQcukhIt/Uq3ApR6BXG0DFmcd14aLgFcU+IOPJWQ1dr5VSSFO9Zgx1/6yxkhBbfYetDvoJNw==
+"@ts-safeql/generate@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@ts-safeql/generate/-/generate-0.0.8.tgz#000f7142bfb0788e98a5a0570cf16bffb0ecece4"
+  integrity sha512-yU2cqUGnGKGr+1iM5OPYoRU+iGHKtIQ9hEXHu3jVLGoJZb96A7yvdcEsPUXbvfY5I7bylr0800zCVzuR1FhPuw==
   dependencies:
     "@ts-safeql/shared" "0.0.6"
     "@ts-safeql/test-utils" "0.0.6"
