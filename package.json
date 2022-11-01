@@ -38,7 +38,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "7.19.1",
     "@next/eslint-plugin-next": "13.0.1",
-    "@types/node": "18.11.8",
+    "@types/node": "18.11.9",
     "@types/react": "18.0.24",
     "@types/react-dom": "18.0.8",
     "@types/testing-library__jest-dom": "5.14.5",
