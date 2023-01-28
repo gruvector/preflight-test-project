@@ -1384,10 +1384,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     sourcemap-codec "1.4.8"
 
-"@next/eslint-plugin-next@13.1.5":
-  version "13.1.5"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.1.5.tgz#3eebea0835d2ec549a7b4b8976bf1d7796cca632"
-  integrity sha512-3kvLTX35bOWOCKU8KY74Ygczc55Qk/kB2TQy0tH7Rti6hzZ6Aij7WQ8zHdIVjmnlD0n/zXWXrIf5y56RKcLQkQ==
+"@next/eslint-plugin-next@13.1.6":
+  version "13.1.6"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.1.6.tgz#ad8be22dd3d8aee9a9bd9a2507e2c55a2f7ebdd9"
+  integrity sha512-o7cauUYsXjzSJkay8wKjpKJf2uLzlggCsGUkPu3lP09Pv97jYlekTC20KJrjQKmSv5DXV0R/uks2ZXhqjNkqAw==
   dependencies:
     glob "7.1.7"
 
