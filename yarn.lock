@@ -2266,10 +2266,10 @@
     "@typescript-eslint/types" "5.51.0"
     eslint-visitor-keys "^3.3.0"
 
-"@upleveled/eslint-config-upleveled@3.8.0":
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-3.8.0.tgz#240d6b0e69b1dd99300d81257b34fc9918b57d4f"
-  integrity sha512-3mSyouNC7/EmyqEFBEQZSI47tDD2cMnsM3CkU1HcKLa5Re5Vmb/w9gMLe2TMn4VbprnxjjC94zwf/dcMqBXhmQ==
+"@upleveled/eslint-config-upleveled@3.9.1":
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-3.9.1.tgz#8b5923dd213472d5ce1412b642dd37b77a688e54"
+  integrity sha512-w4NqTC91VmsUCq1p8k38E2SsMtw23IH/2C2E9llsZuX0G14ON7fZVFn9ZtfhBEOk6sUpxHNaERJfXctWjC2t1Q==
 
 "@upleveled/eslint-plugin-upleveled@2.1.6":
   version "2.1.6"
@@ -4426,10 +4426,10 @@ eslint-webpack-plugin@^3.1.1:
     normalize-path "^3.0.0"
     schema-utils "^3.1.1"
 
-eslint@8.33.0:
-  version "8.33.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.33.0.tgz#02f110f32998cb598c6461f24f4d306e41ca33d7"
-  integrity sha512-WjOpFQgKK8VrCnAtl8We0SUOy/oVZ5NHykyMiagV1M9r8IFpIJX7DduK6n1mpfhlG7T1NLWm2SuD8QB7KFySaA==
+eslint@8.34.0:
+  version "8.34.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.34.0.tgz#fe0ab0ef478104c1f9ebc5537e303d25a8fb22d6"
+  integrity sha512-1Z8iFsucw+7kSqXNZVslXS8Ioa4u2KM7GPwuKtkTFAqZ/cHMcEaR+1+Br0wLlot49cNxIiZk5wp8EAbPcYZxTg==
   dependencies:
     "@eslint/eslintrc" "^1.4.1"
     "@humanwhocodes/config-array" "^0.11.8"
