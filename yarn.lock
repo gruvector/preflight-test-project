@@ -1401,10 +1401,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     sourcemap-codec "1.4.8"
 
-"@next/eslint-plugin-next@13.2.4":
-  version "13.2.4"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.2.4.tgz#3e124cd10ce24dab5d3448ce04104b4f1f4c6ca7"
-  integrity sha512-ck1lI+7r1mMJpqLNa3LJ5pxCfOB1lfJncKmRJeJxcJqcngaFwylreLP7da6Rrjr6u2gVRTfmnkSkjc80IiQCwQ==
+"@next/eslint-plugin-next@13.3.0":
+  version "13.3.0"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.3.0.tgz#3a4742b0817575cc0dd4d152cb10363584c215ac"
+  integrity sha512-wuGN5qSEjSgcq9fVkH0Y/qIPFjnZtW3ZPwfjJOn7l/rrf6y8J24h/lo61kwqunTyzZJm/ETGfGVU9PUs8cnzEA==
   dependencies:
     glob "7.1.7"
 
@@ -2283,10 +2283,10 @@
     "@typescript-eslint/types" "5.57.1"
     eslint-visitor-keys "^3.3.0"
 
-"@upleveled/eslint-config-upleveled@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-4.0.1.tgz#129da6c841f84a10125c72a8d14a2da801a55a43"
-  integrity sha512-fMPSzERg1Zl7j20jmvJx7QSMD2rOwJDIkm9waa0E4YQenwcXB5l/1c6Vr2dpFMptHmG1N4gKX6Da9qb6apSpVg==
+"@upleveled/eslint-config-upleveled@4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-4.0.2.tgz#e39edf42b0d8481a96b2e0adc7c67f0bdf17f767"
+  integrity sha512-HQj9cnldVsO/OJjNkovFHGkyZ/4Kf4713eoXvlLWEm9HGR48HHHl4HO8lJQrsFx/mzcc8rKX+eVEnddFwVYFYg==
 
 "@upleveled/eslint-plugin-upleveled@2.1.6":
   version "2.1.6"
