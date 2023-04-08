@@ -45,9 +45,9 @@
     "@types/testing-library__user-event": "4.2.0",
     "@typescript-eslint/eslint-plugin": "5.57.1",
     "@typescript-eslint/parser": "5.57.1",
-    "@upleveled/eslint-config-upleveled": "4.0.2",
+    "@upleveled/eslint-config-upleveled": "4.0.7",
     "@upleveled/eslint-plugin-upleveled": "2.1.6",
-    "eslint": "8.37.0",
+    "eslint": "8.38.0",
     "eslint-config-react-app": "7.0.1",
     "eslint-import-resolver-typescript": "3.5.5",
     "eslint-plugin-flowtype": "8.0.3",
@@ -61,7 +61,7 @@
     "eslint-plugin-sonarjs": "0.19.0",
     "eslint-plugin-testing-library": "5.10.2",
     "eslint-plugin-unicorn": "46.0.0",
-    "typescript": "5.0.3"
+    "typescript": "5.0.4"
   },
   "resolutions": {
     "@typescript-eslint/eslint-plugin": "5.57.1",
