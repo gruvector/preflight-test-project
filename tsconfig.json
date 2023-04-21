@@ -4,6 +4,7 @@
   "compilerOptions": {
     "checkJs": true
   },
+  "types": ["node", "jest", "@testing-library/jest-dom"],
   "include": [
     "**/.eslintrc.cjs",
     "**/*.ts",
@@ -13,6 +14,7 @@
     "**/*.cjs",
     "**/*.mjs",
     ".next/types/**/*.ts",
-    "next.d.ts"
-  ]
+    "react-app-env.d.ts"
+  ],
+  "exclude": ["node_modules", "build"]
 }
