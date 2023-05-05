@@ -4,7 +4,6 @@
   "compilerOptions": {
     "checkJs": true
   },
-  "types": ["node", "jest", "@testing-library/jest-dom"],
   "include": [
     "**/.eslintrc.cjs",
     "**/*.ts",
