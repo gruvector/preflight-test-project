@@ -27,9 +27,6 @@ devDependencies:
   '@jest/globals':
     specifier: ^29.5.0
     version: 29.5.0
-  '@types/jest':
-    specifier: ^29.5.1
-    version: 29.5.1
   '@types/node':
     specifier: 18.16.3
     version: 18.16.3
