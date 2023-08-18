@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@jest/globals": "^29.5.0",
-    "@types/node": "20.5.0",
+    "@types/node": "20.5.1",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "@types/testing-library__jest-dom": "5.14.9",
