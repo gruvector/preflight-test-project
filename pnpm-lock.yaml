@@ -16,7 +16,7 @@ dependencies:
     version: 14.5.1(@testing-library/dom@9.2.0)
   '@upleveled/react-scripts':
     specifier: 5.0.12
-    version: 5.0.12(eslint@8.52.0)(react@18.2.0)(sass@1.69.4)(typescript@5.2.2)
+    version: 5.0.12(eslint@8.52.0)(react@18.2.0)(sass@1.69.5)(typescript@5.2.2)
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -24,8 +24,8 @@ dependencies:
     specifier: 18.2.0
     version: 18.2.0(react@18.2.0)
   sass:
-    specifier: 1.69.4
-    version: 1.69.4
+    specifier: 1.69.5
+    version: 1.69.5
   web-vitals:
     specifier: 3.5.0
     version: 3.5.0
@@ -2654,7 +2654,7 @@ packages:
   /@ungap/structured-clone@1.2.0:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
 
-  /@upleveled/react-scripts@5.0.12(eslint@8.52.0)(react@18.2.0)(sass@1.69.4)(typescript@5.2.2):
+  /@upleveled/react-scripts@5.0.12(eslint@8.52.0)(react@18.2.0)(sass@1.69.5)(typescript@5.2.2):
     resolution: {integrity: sha512-vjnrYLO8jlJyFR3wk9LtiHm63epJg//wV0P9awrCREMW/tWeRjA6DSCQ8Dum2yTY5hcKQ3oDlz4uFe6ov8+M2w==}
     engines: {node: '>=14.0.0'}
     hasBin: true
@@ -2696,7 +2696,7 @@ packages:
       react-refresh: 0.11.0
       resolve: 1.22.4
       resolve-url-loader: 4.0.0
-      sass-loader: 12.6.0(sass@1.69.4)(webpack@5.80.0)
+      sass-loader: 12.6.0(sass@1.69.5)(webpack@5.80.0)
       semver: 7.5.4
       source-map-loader: 3.0.2(webpack@5.80.0)
       style-loader: 3.3.2(webpack@5.80.0)
@@ -8198,7 +8198,7 @@ packages:
     resolution: {integrity: sha512-ZRwKbh/eQ6w9vmTjkuG0Ioi3HBwPFce0O+v//ve+aOq1oeCy7jMV2qzzAlpsNuqpqCBjjriM1lbtZbF/Q8jVyA==}
     dev: false
 
-  /sass-loader@12.6.0(sass@1.69.4)(webpack@5.80.0):
+  /sass-loader@12.6.0(sass@1.69.5)(webpack@5.80.0):
     resolution: {integrity: sha512-oLTaH0YCtX4cfnJZxKSLAyglED0naiYfNG1iXfU5w1LNZ+ukoA5DtyDIN5zmKVZwYNJP4KRc5Y3hkWga+7tYfA==}
     engines: {node: '>= 12.13.0'}
     peerDependencies:
@@ -8219,12 +8219,12 @@ packages:
     dependencies:
       klona: 2.0.6
       neo-async: 2.6.2
-      sass: 1.69.4
+      sass: 1.69.5
       webpack: 5.80.0
     dev: false
 
-  /sass@1.69.4:
-    resolution: {integrity: sha512-+qEreVhqAy8o++aQfCJwp0sklr2xyEzkm9Pp/Igu9wNPoe7EZEQ8X/MBvvXggI2ql607cxKg/RKOwDj6pp2XDA==}
+  /sass@1.69.5:
+    resolution: {integrity: sha512-qg2+UCJibLr2LCVOt3OlPhr/dqVHWOa9XtZf2OjbLs/T4VPSJ00udtgJxH3neXZm+QqX8B+3cU7RaLqp1iVfcQ==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
