@@ -38,8 +38,8 @@ devDependencies:
     specifier: 20.8.9
     version: 20.8.9
   '@types/react':
-    specifier: 18.2.32
-    version: 18.2.32
+    specifier: 18.2.33
+    version: 18.2.33
   '@types/react-dom':
     specifier: 18.2.14
     version: 18.2.14
@@ -51,7 +51,7 @@ devDependencies:
     version: 8.52.0
   eslint-config-upleveled:
     specifier: 5.1.1
-    version: 5.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@13.5.6)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.32)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2)
+    version: 5.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@13.5.6)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2)
   expect:
     specifier: 29.7.0
     version: 29.7.0
@@ -2311,10 +2311,10 @@ packages:
   /@types/react-dom@18.2.14:
     resolution: {integrity: sha512-V835xgdSVmyQmI1KLV2BEIUgqEuinxp9O4G6g3FqO/SqLac049E53aysv0oEFD2kHfejeKU+ZqL2bcFWj9gLAQ==}
     dependencies:
-      '@types/react': 18.2.32
+      '@types/react': 18.2.33
 
-  /@types/react@18.2.32:
-    resolution: {integrity: sha512-F0FVIZQ1x5Gxy/VYJb7XcWvCcHR28Sjwt1dXLspdIatfPq1MVACfnBDwKe6ANLxQ64riIJooXClpUR6oxTiepg==}
+  /@types/react@18.2.33:
+    resolution: {integrity: sha512-v+I7S+hu3PIBoVkKGpSYYpiBT1ijqEzWpzQD62/jm4K74hPpSP7FF9BnKG6+fg2+62weJYkkBWDJlZt5JO/9hg==}
     dependencies:
       '@types/prop-types': 15.7.5
       '@types/scheduler': 0.16.3
@@ -4422,7 +4422,7 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  /eslint-config-upleveled@5.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@13.5.6)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.32)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2):
+  /eslint-config-upleveled@5.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@13.5.6)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2):
     resolution: {integrity: sha512-9URTOJXuh01chdjuAauW8QwqGB6LI38AmN4jIp4OAg0SH3mdOc5E8jP5AK75XHxOhKQDxZ4/WnFla4mGELHlhw==}
     engines: {node: '>=18.0.0'}
     hasBin: true
@@ -4453,7 +4453,7 @@ packages:
       '@next/eslint-plugin-next': 13.5.6
       '@types/eslint': 8.44.6
       '@types/node': 20.8.9
-      '@types/react': 18.2.32
+      '@types/react': 18.2.33
       '@types/react-dom': 18.2.14
       '@typescript-eslint/eslint-plugin': 6.9.0(@typescript-eslint/parser@6.9.0)(eslint@8.52.0)(typescript@5.2.2)
       '@typescript-eslint/parser': 6.9.0(eslint@8.52.0)(typescript@5.2.2)
