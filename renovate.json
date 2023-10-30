@@ -9,7 +9,8 @@
         "dependencies",
         "peerDependencies",
         "resolutions",
-        "overrides"
+        "overrides",
+        "packageManager"
       ],
       "updateTypes": ["patch", "minor"],
       "automerge": true
@@ -21,7 +22,8 @@
         "dependencies",
         "peerDependencies",
         "resolutions",
-        "overrides"
+        "overrides",
+        "packageManager"
       ],
       "updateTypes": ["major"],
       "automerge": true
