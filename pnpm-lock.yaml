@@ -50,8 +50,8 @@ devDependencies:
     specifier: 8.52.0
     version: 8.52.0
   eslint-config-upleveled:
-    specifier: 6.1.1
-    version: 6.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@14.0.0)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2)
+    specifier: 6.1.2
+    version: 6.1.2(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@14.0.0)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2)
   expect:
     specifier: 29.7.0
     version: 29.7.0
@@ -4422,8 +4422,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  /eslint-config-upleveled@6.1.1(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@14.0.0)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2):
-    resolution: {integrity: sha512-WHkcd0DTg5x0adr9rmuptaORTTbLtRaojy0l4VCs6JUurR4T41lCoQ+fU1cqpb/eAntbXaxwn5jhVnRtq/qYlg==}
+  /eslint-config-upleveled@6.1.2(@babel/eslint-parser@7.22.15)(@next/eslint-plugin-next@14.0.0)(@types/eslint@8.44.6)(@types/node@20.8.9)(@types/react-dom@18.2.14)(@types/react@18.2.33)(@typescript-eslint/eslint-plugin@6.9.0)(@typescript-eslint/parser@6.9.0)(eslint-import-resolver-typescript@3.6.1)(eslint-plugin-import@2.29.0)(eslint-plugin-jsx-a11y@6.7.1)(eslint-plugin-jsx-expressions@1.3.1)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react@7.33.2)(eslint-plugin-security@1.7.1)(eslint-plugin-sonarjs@0.21.0)(eslint-plugin-testing-library@6.1.0)(eslint-plugin-unicorn@48.0.1)(eslint-plugin-upleveled@2.1.9)(eslint@8.52.0)(typescript@5.2.2):
+    resolution: {integrity: sha512-dfb6N0J1Iusak+d/3Og9xhKVEAeiXH18YGfenSKMkOmG29HBhGBMOi/Dery4aKYFH6foC6ICrGQRNA6RlbXB+Q==}
     engines: {node: '>=18.0.0'}
     hasBin: true
     peerDependencies:
