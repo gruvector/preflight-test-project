@@ -50,8 +50,8 @@ devDependencies:
     specifier: 8.53.0
     version: 8.53.0
   eslint-config-upleveled:
-    specifier: 7.0.1-0
-    version: 7.0.1-0(@babel/core@7.21.4)(@types/eslint@8.44.7)(@types/node@20.9.0)(@types/react-dom@18.2.15)(@types/react@18.2.37)(eslint@8.53.0)(globals@13.23.0)(typescript@5.2.2)
+    specifier: 7.0.1
+    version: 7.0.1(@babel/core@7.21.4)(@types/eslint@8.44.7)(@types/node@20.9.0)(@types/react-dom@18.2.15)(@types/react@18.2.37)(eslint@8.53.0)(globals@13.23.0)(typescript@5.2.2)
   expect:
     specifier: 29.7.0
     version: 29.7.0
@@ -4398,8 +4398,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  /eslint-config-upleveled@7.0.1-0(@babel/core@7.21.4)(@types/eslint@8.44.7)(@types/node@20.9.0)(@types/react-dom@18.2.15)(@types/react@18.2.37)(eslint@8.53.0)(globals@13.23.0)(typescript@5.2.2):
-    resolution: {integrity: sha512-Ys6oCUEDAL9twVMafkH7KlC8rx4DmJtP5NTHszkTHsRJw/dzwR1ndKIyXtaatr0IUepvUSprw4e4FiJjQS5o7Q==}
+  /eslint-config-upleveled@7.0.1(@babel/core@7.21.4)(@types/eslint@8.44.7)(@types/node@20.9.0)(@types/react-dom@18.2.15)(@types/react@18.2.37)(eslint@8.53.0)(globals@13.23.0)(typescript@5.2.2):
+    resolution: {integrity: sha512-GvUyDHpp1q3AUJxtQ4B8IwbtaKhg2qbt75NGK2wV+PniqBiOVcFO8UQaMDnQt6fsV72i6F/aVwpIh+SGPBGvdw==}
     engines: {node: '>=18.0.0'}
     hasBin: true
     peerDependencies:
