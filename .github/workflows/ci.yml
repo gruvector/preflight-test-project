@@ -1,0 +1,31 @@
+name: CI
+on: push
+
+jobs:
+  ci:
+    name: CI
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 'latest'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: pnpm install
+      - name: Build Next.js app
+        run: pnpm build
+      - name: Run TypeScript Compiler
+        run: pnpm tsc
+      - name: Run ESLint
+        run: pnpm eslint . --max-warnings 0
+      - name: Run Stylelint
+        run: pnpm stylelint '**/*.{css,scss,less,js,tsx}'
+      - name: Install and run Preflight
+        run: |
+          pnpm add --global @upleveled/preflight
+          preflight
