@@ -9,8 +9,8 @@ dependencies:
     specifier: 6.4.1
     version: 6.4.1(@jest/globals@29.7.0)
   '@testing-library/react':
-    specifier: 14.2.0
-    version: 14.2.0(react-dom@18.2.0)(react@18.2.0)
+    specifier: 14.2.1
+    version: 14.2.1(react-dom@18.2.0)(react@18.2.0)
   '@testing-library/user-event':
     specifier: 14.5.2
     version: 14.5.2(@testing-library/dom@9.2.0)
@@ -2145,8 +2145,8 @@ packages:
       redent: 3.0.0
     dev: false
 
-  /@testing-library/react@14.2.0(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-7uBnPHyOG6nDGCzv8SLeJbSa33ZoYw7swYpSLIgJvBALdq7l9zPNk33om4USrxy1lKTxXaVfufzLmq83WNfWIw==}
+  /@testing-library/react@14.2.1(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-sGdjws32ai5TLerhvzThYFbpnF9XtL65Cjf+gB0Dhr29BGqK+mAeN7SURSdu+eqgET4ANcWoC7FQpkaiGvBr+A==}
     engines: {node: '>=14'}
     peerDependencies:
       react: ^18.0.0
@@ -7498,6 +7498,7 @@ packages:
   /postcss-selector-parser@6.0.13:
     resolution: {integrity: sha512-EaV1Gl4mUEV4ddhDnv/xtj7sxwrwxdetHdWUGnT4VJQf+4d05v6lHYZr8N573k5Z0BViss7BDhfWtKS3+sfAqQ==}
     engines: {node: '>=4'}
+    requiresBuild: true
     dependencies:
       cssesc: 3.0.0
       util-deprecate: 1.0.2
